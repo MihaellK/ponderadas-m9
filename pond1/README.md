@@ -47,3 +47,7 @@ Subscriber recebendo mensagens:
 
 Boker após executar ambos Scripts
 ![Broker](./media/mosquittoExec.png)
+
+# Video da execução
+
+[Video Executando o projeto](https://youtu.be/uBxdXjn5uDY)
